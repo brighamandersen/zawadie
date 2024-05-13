@@ -63,3 +63,24 @@ main {
 .zawadie-image {
   width: 200px;
 }
+
+.app-icon {
+  width: 100px;
+  height: 100px;
+
+  position: absolute;
+  top: -100px;
+  left: -100px;
+  animation: slideIn 1s forwards;
+}
+
+@keyframes slideIn {
+  from {
+    top: -100px;
+    left: -100px;
+  }
+  to {
+    top: 0px;
+    left: 0px;
+  }
+}

@@ -107,6 +107,11 @@ Homework by next time:
 
 Today we reviewed classes vs. ids and when to use each one. We also talked about how to reference image `src`s and how to navigate between directories using to `./` for current directory and `../` for parent directory. We also talked about how to add animations such as a slide in from the top corner animation or scaling up animation.
 
+## 5/20/24
+
+We reviewed last week's material about classes vs. ids, referencing paths, then our top corner animation. We then built on what we did with the top corner animation by altering it so rather than just popping into the top left corner, having it animate to become the background of a whole section.
+
 ## Next week
 
-Flexbox (side by side styling image and text)
+- Give time for them to demo their version of the site we've been building
+- Flexbox (side by side styling image and text)

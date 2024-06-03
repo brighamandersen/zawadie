@@ -111,6 +111,20 @@ Today we reviewed classes vs. ids and when to use each one. We also talked about
 
 We reviewed last week's material about classes vs. ids, referencing paths, then our top corner animation. We then built on what we did with the top corner animation by altering it so rather than just popping into the top left corner, having it animate to become the background of a whole section.
 
+## 6/3/24
+
+### Our discussion
+
+We reviewed absolute positioning and z-index overlaps then jumped in discussing flex box and how to align elements side by side.
+
+### Homework
+
+> Okay here is the link to our code! https://github.com/brighamandersen/zawadie
+>
+> Make sure to open the link, then hit the green "Code" button then select "Download ZIP". That will let you get our project on your machine so you can edit it.
+>
+> Your homework is to add person cards or some like that which has the name for each agent, your position, and a picture of you. You can also add social media links as well! See you next time!
+
 ## Next week
 
 - Give time for them to demo their version of the site we've been building

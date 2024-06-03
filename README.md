@@ -125,6 +125,10 @@ We reviewed absolute positioning and z-index overlaps then jumped in discussing 
 >
 > Your homework is to add person cards or some like that which has the name for each agent, your position, and a picture of you. You can also add social media links as well! See you next time!
 
+## Next Week
+
+How to use version control
+
 ## Next week
 
 - Give time for them to demo their version of the site we've been building

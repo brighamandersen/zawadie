@@ -128,8 +128,3 @@ We reviewed absolute positioning and z-index overlaps then jumped in discussing 
 ## Next Week
 
 How to use version control
-
-## Next week
-
-- Give time for them to demo their version of the site we've been building
-- Flexbox (side by side styling image and text)

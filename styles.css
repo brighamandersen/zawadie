@@ -3,7 +3,11 @@ html {
 }
 
 p {
-  color: red;
+  color: darkblue;
+}
+
+.green-paragraph {
+  color: green;
 }
 
 .card-container {
@@ -90,4 +94,14 @@ main {
 .text-content {
   position: relative;
   z-index: 2;
+}
+
+.our-team-photo {
+  width: 200px;
+}
+
+.side-by-side-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }

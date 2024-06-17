@@ -97,11 +97,39 @@ main {
 }
 
 .our-team-photo {
-  width: 200px;
+  width: 400px;
 }
 
 .side-by-side-container {
   display: flex;
   flex-direction: row;
+  /* flex-wrap: wrap; */
   justify-content: space-around;
+}
+
+/* Mobile adjustments, <= 600px */
+@media (max-width: 600px) {
+  .our-team-photo {
+    width: 100px;
+  }
+
+  body {
+    background-color: lightpink;
+  }
+}
+
+/* Desktop adjustments, >= 1000px */
+@media (min-width: 1000px) {
+  .our-team-photo {
+    width: 700px;
+  }
+
+  body {
+    background-color: lightblue;
+  }
+}
+
+.image-slider-photo {
+  width: 300px;
+  /* height: 500px; */
 }

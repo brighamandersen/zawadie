@@ -125,7 +125,23 @@ We reviewed absolute positioning and z-index overlaps then jumped in discussing 
 >
 > Your homework is to add person cards or some like that which has the name for each agent, your position, and a picture of you. You can also add social media links as well! See you next time!
 
+## 6/17/24
+
+### Our discussion
+
+We reviewed Smith Wilson's work on the contact card page and went over how you can use images that are in your project (`src="./...`) or on the web (`src="https://..."`).
+
+We then discussed CSS breakpoints, how to apply different breakpoints on small devices and on large ones.
+
+### Homework
+
+Make contact cards if you haven't, then also change their size depending on your screen size.
+
 ## Next week
 
 - Give time for them to demo their version of the site we've been building
-- Flexbox (side by side styling image and text)
+
+## Long term roadmap
+
+Git
+JavaScript
